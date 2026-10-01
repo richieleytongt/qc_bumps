@@ -25,4 +25,4 @@ The most important thing however, is to capture the dynamics of a tire leaving a
 - derivative supplier: ADiGator (Can switch to sparseCD but increases computation time)
 
 # Questions
-Please contact me at r.lero@proton.me
+Please contact me at my [email](r.lero@proton.me)

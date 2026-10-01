@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: qc_bumps
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Richard
+    family-names: Leyton-Romero
+    email: r.lero@proton.me
+    orcid: 'https://orcid.org/0009-0004-5798-6146'
