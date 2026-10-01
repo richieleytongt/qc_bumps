@@ -1,0 +1,14 @@
+#Specifics
+Functions/curb_plot.m
+
+#ADiGator files
+*ADiGator*
+*adigator*
+
+#file types
+*.asv
+*.txt
+*.pdf
+
+#folders
+Results/
